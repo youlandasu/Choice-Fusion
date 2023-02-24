@@ -1,9 +1,14 @@
 ## Choice Fusion as Knowledge for Zero-Shot Dialogue State Tracking
 
-This is the PyTorch implementation of the following paper accepted by [ICASSP 2023](https://2023.ieeeicassp.org/):
-[Ruolin Su](https://github.com/youlandasu), Jingfeng Yang, Ting-Wei Wu, Biing-Hwang Juang. **Choice Fusion as Knowledge for Zero-Shot Dialogue State Tracking.**
+This is the PyTorch implementation of the following paper accepted by [ICASSP 2023](https://2023.ieeeicassp.org/) in Rhodes Island, Greek:
 
-![Overview](https://github.com/youlandasu/Choice-Fusion/choice-fusion.png)
+Title: **Choice Fusion as Knowledge for Zero-Shot Dialogue State Tracking**
+
+Authors: [Ruolin Su](https://github.com/youlandasu), Jingfeng Yang, Ting-Wei Wu, Biing-Hwang Juang. 
+
+![Overview](https://github.com/youlandasu/Choice-Fusion/blob/main/choice-fusion.png)
+
+## Usage
 
 ### Install Dependency
 ```
